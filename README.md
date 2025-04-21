@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180px" alt="SQL Database Animation"/>
   <h1>Capstone Project: Advanced Airline Database Exploration Using SQL</h1>
   <p><i>Real-time querying meets real-world aviation insights</i></p>
 </div>
